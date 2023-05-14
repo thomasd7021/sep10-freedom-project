@@ -27,13 +27,16 @@
     margin-bottom: 50px;
 }
 
-@media (min-width: 768){
+@media (min-width: 768px){
     #img-fit{
         height: 400px;
         width: 600px;
     }
 }
-
+#img-fit{
+    height: 100px;
+    width: 200px;
+}
 
 
 .over{
