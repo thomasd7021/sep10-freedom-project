@@ -27,9 +27,14 @@
     margin-bottom: 50px;
 }
 
-#img-fit{
-    
+@media (min-width: 768){
+    #img-fit{
+        height: 400px;
+        width: 600px;
+    }
 }
+
+
 
 .over{
     backgroun
