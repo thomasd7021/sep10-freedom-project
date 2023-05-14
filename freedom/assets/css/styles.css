@@ -16,5 +16,9 @@
 
 .box{
     padding: 10px 20px;
-    boarder: 
+    border: 5px solid black;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    margin: 50px;
 }
