@@ -7,8 +7,8 @@
   background-color: black;
   color: white;
   padding: 10px 20px;
-  border: 1px solid black;
-  border-radius: 25px;
+  /* border: 1px solid black;
+  border-radius: 25px; */
 }
 
 #img{
@@ -35,6 +35,7 @@
         width: 600px;
     }
 }
+
 @media (max-width: 768px){
     #img-fit{
         height: 300px;
@@ -42,11 +43,10 @@
     }
 }
 
-
-
 .text {
     font-size: 20px;
 }
+
 .foot{
     color: light gray;
     background-color: black;
