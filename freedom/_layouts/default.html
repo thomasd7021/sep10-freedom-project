@@ -14,6 +14,10 @@
     <body>
         <!-- HTML -->
         {% include nav.html %}
+        <div>
+            <img class="img-fluid" id="img" src="assets/images/{{ page.img }}">
+            <p class="center text-center">{{ page.topic }}</p>
+        </div>
 
         {{ content }}
 
