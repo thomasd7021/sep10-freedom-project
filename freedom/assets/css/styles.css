@@ -56,8 +56,9 @@
 
 .box-2{
     border: 5px solid black;
+    border-radius: 20px;
 }
 
 #text{
-    padding-top: ;
+    padding-top: 100px;
 }
