@@ -37,7 +37,6 @@
     #img-fit{
         height: 300px;
         width: 525px;
-        
     }
 }
 
@@ -47,7 +46,8 @@
     font-size: 20px;
 }
 .foot{
-    color: white;
+    color: light gray;
     background-color: black;
     padding: 40px;
+    margin-top: 20px;
 }
