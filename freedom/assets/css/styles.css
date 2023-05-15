@@ -30,14 +30,14 @@
 }
 
 @media (min-width: 768px){
-    #img-fit{
+    .img-fit{
         height: 400px;
         width: 600px;
     }
 }
 
 @media (max-width: 768px){
-    #img-fit{
+    .img-fit{
         height: 300px;
         width: 475px;
     }
